@@ -29,7 +29,10 @@ function App() {
           "Content-Type": 'application/octet-stream'
         },
         body: toBase64(imageFile)
+      }).catch((error) => {
+        console.log(error);
       });
+      console.log(response);
       setPredictionResultMessage(response);
     }
   }
