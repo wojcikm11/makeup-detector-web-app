@@ -39,3 +39,4 @@ Użytkownik za pomocą swojego urządzenia wykonuje zdjęcie swojej twarzy. Nast
 Deployment aplikacji internetowej został wykonany przy pomocy Visual Studio Code z zainstalowanym rozszerzeniem Azure App Service.
 
 ## Demo aplikacji
+https://www.youtube.com/watch?v=y7lijrdE9co
