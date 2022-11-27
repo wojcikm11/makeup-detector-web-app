@@ -29,6 +29,7 @@ Użytkownik za pomocą swojego urządzenia wykonuje zdjęcie swojej twarzy. Nast
 - aplikacja internetowa wybiera kategorię z największym prawdopodobieństwem i na jej podstawie wyświetla informację użytkownikowi 
 
 ## Diagram architektury
+![makeup-detector](https://user-images.githubusercontent.com/57191854/204160244-fd5462e6-8528-4954-950b-7206747380ce.png)
 
 ## Opis wybranych serwisów i stosu technologicznego
 - React
